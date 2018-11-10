@@ -7,12 +7,15 @@
 	-mendeklrasikan int max sebagai nilai tertetinggi.
 	-memasukan nilai a
 	-membandingkan nilai a dengan max jika a < max max = a
-		```c++
+		
+```c++
 			if (a>max)
 			max=a;
-		```
+
+```
 	-membandingkan inputan nilai a tidak sama dengan nilai 0 while(a!=0)
-		```c++
+
+```c++
 			do {
 			cout<<"masukan angka:";
     			cin>> a;
@@ -20,8 +23,9 @@
         		max=a;
 			    }
     			while (a!=0);
-		```
+```
 	-mencetak nilai tertinggi cout<< max;
+```
 *Berikut contoh flowchartnya
 
 ![img](https://raw.githubusercontent.com/aseps12/praktikum5/master/flowchart.png)
