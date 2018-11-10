@@ -7,6 +7,7 @@
 	-mendeklrasikan int max sebagai nilai tertetinggi.
 	-memasukan nilai a
 	-membandingkan nilai a dengan max jika a < max max = a
+```
 		
 ```c++
 			if (a>max)
@@ -25,12 +26,7 @@
 ```
 	-mencetak nilai tertinggi cout<< max;
 
-*Berikut contoh flowchartnya
-
-![img](https://raw.githubusercontent.com/aseps12/praktikum5/master/flowchart.png)
-
 *Berikut kode lengkapnya
-
 ```c++
 	int main()
 {
@@ -54,3 +50,8 @@
 
 *Berikut Hasilnya
 ![img](https://raw.githubusercontent.com/aseps12/praktikum5/master/hasil.png)
+
+*Berikut contoh flowchartnya
+
+![img](https://raw.githubusercontent.com/aseps12/praktikum5/master/flowchart.png)
+
