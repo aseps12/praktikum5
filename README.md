@@ -11,7 +11,6 @@
 ```c++
 			if (a>max)
 			max=a;
-
 ```
 	-membandingkan inputan nilai a tidak sama dengan nilai 0 while(a!=0)
 
@@ -25,7 +24,7 @@
     			while (a!=0);
 ```
 	-mencetak nilai tertinggi cout<< max;
-```
+
 *Berikut contoh flowchartnya
 
 ![img](https://raw.githubusercontent.com/aseps12/praktikum5/master/flowchart.png)
@@ -33,8 +32,7 @@
 *Berikut kode lengkapnya
 
 ```c++
-
-int main()
+	int main()
 {
    int a=0;
    int max=0;
@@ -50,8 +48,8 @@ int main()
 
 
     cout<<"nilai terbesar :"<< max;
-
 }
+
 ```
 
 *Berikut Hasilnya
